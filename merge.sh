@@ -47,7 +47,7 @@ done
 # ===== extract domain =====
 grep -Eo '([a-zA-Z0-9-]+\.)+[a-zA-Z]{2,}' raw.txt > clean.txt
 
-# ===== حذف موارد اضافی =====
+# ===== Del junk =====
 grep -vE 'localhost|localdomain|broadcasthost' clean.txt > tmp.txt
 
 # ===== convert adblock =====

@@ -113,10 +113,10 @@
 ! Last modified: 2026-05-26T03:19:12.933Z
 ! Last modified: 2026-05-26T03:19:14.821Z
 ! Last modified: 2026-05-26T03:19:51.515Z
-! Last modified: 2026-05-26T05:29:05.544Z
-! Last modified: 2026-05-26T05:29:25.145Z
 ! Last modified: 2026-05-26T05:29:46.828Z
 ! Last modified: 2026-05-26T05:29:49.850Z
+! Last modified: 2026-05-26T07:25:33.935Z
+! Last modified: 2026-05-26T07:25:59.051Z
 ! Title: 1Hosts (Lite)
 ! Title: AWAvenue Ads Rule
 ! Title: AdGuard DNS Popup Hosts filter
@@ -181,8 +181,8 @@
 ! Version: 1.0.29.44
 ! Version: 1.0.29.52
 ! Version: 1.0.39.75
-! Version: 1.0.67.61
-! Version: 1.0.96.60
+! Version: 1.0.67.62
+! Version: 1.0.96.61
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
 *-ad.wtzw.com*
@@ -248726,6 +248726,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||029wns666.com^
 ||029wns888.com^
 ||029xin888.com^
+||02a30fd4b8.com^
 ||02ab4e0699.4bc588417b.com^
 ||02af1c9780fac508.com^
 ||02b3659.com^
@@ -250209,6 +250210,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||06dk.com^
 ||06egte3.top^
 ||06evyxnibl.com^
+||06f4422159.com^
 ||06f864e06a.com^
 ||06fe799379766c71c83acee713d394184090d5ff00b3d07a68255a1c6004ef8.link^
 ||06hi88.com^
@@ -256482,6 +256484,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||126rr.com^
 ||126sz.com^
 ||127.demdex.net^
+||1270533dea.com^
 ||127068.com^
 ||1270ky.com^
 ||1271ky.com^
@@ -278061,6 +278064,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||233932.com^
 ||23399s.com^
 ||2339ky.com^
+||233af38553.com^
 ||233ba71cf5871410.top^
 ||233hgc.com^
 ||233kaiyun.net^
@@ -280946,6 +280950,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||27e44281075625e2.com^
 ||27eb82693d7.beer^
 ||27ebar.vip^
+||27ec4b6fcf.com^
 ||27ej18n59.de^
 ||27epix.com^
 ||27f121e4611031.beer^
@@ -281493,6 +281498,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||28cb84740b.com^
 ||28d205fb06.top^
 ||28d776dd1e5bbddf.com^
+||28dafd89fb.com^
 ||28derechosanitario.com^
 ||28dfb7c1edee2fef7c48315ec09f3039.com^
 ||28dtcasinobet.com^
@@ -286130,6 +286136,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||349yh.com^
 ||34a323be3d7a731ef1014ede6984d140.org^
 ||34auwin.com^
+||34b1c2d6f9.com^
 ||34b2c49258f9d6c3.com^
 ||34b2efc756.com^
 ||34b84f9cb1d48f03b05d685746c40f5e.sbs^
@@ -294198,6 +294205,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||4f10.casino^
 ||4f10ac9a3d82cec8.com^
 ||4f12fa3413.com^
+||4f1e5419a2.com^
 ||4f216e7cc59ea931.top^
 ||4f250a821931dcfb47f02e1d6c923860.net^
 ||4f2ec36fca.site^
@@ -300423,6 +300431,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||5eb8be528fdb96eb.com^
 ||5ebe6d584ed6.top^
 ||5ebe95ec9bc80fec.pw^
+||5ec1d56c09.com^
 ||5ec29caeb532d6061b368eab72b0329f.com^
 ||5ecdd85d0b770f89.com^
 ||5ed55e7208.com^
@@ -301909,6 +301918,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||6187666.com^
 ||6187t.com^
 ||6188.casino^
+||618856e0bb.com^
 ||618889.com^
 ||6188a.com^
 ||6188tyc.com^
@@ -306136,6 +306146,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||69ahv0.com^
 ||69b.com^
 ||69b1fa3adc161af2.com^
+||69b22afb80.com^
 ||69b61ba7d6.com^
 ||69b704c14d7ce36e.com^
 ||69banca.com^
@@ -312122,6 +312133,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||7878867.com^
 ||7878868.com^
 ||7878869.com^
+||7878ba0587.com^
 ||78796.vip^
 ||787975.club^
 ||7879bet.xyz^
@@ -324160,6 +324172,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||93553ec9d6.com^
 ||9356.casino^
 ||93575.cc^
+||9357f4ba72.com^
 ||9357x.com^
 ||93599222.com^
 ||9359ca9921.com^
@@ -326956,6 +326969,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||98a2.com^
 ||98a648ff0943.com^
 ||98a98.com^
+||98ab3242f8.com^
 ||98ae3db271.com^
 ||98ae3de254b85347.top^
 ||98avip.com.br^
@@ -348656,6 +348670,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||afbe15b328587f44.com^
 ||afbgckmqhmqxi.online^
 ||afbhub.net^
+||afbporsoqasrae.com^
 ||afca6b82c11032.beer^
 ||afcav.com^
 ||afcd1285d11031.beer^
@@ -363501,6 +363516,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||anamera-cletting.com^
 ||anamfizzles.top^
 ||anamuel-careslie.com^
+||ananagnatty.cfd^
 ||ananas.drip-hiit-lyon.com^
 ||ananas.lecercleboxing-lyon.com^
 ||anandsr-dev.github.io^
@@ -481394,6 +481410,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||dsultra.com^
 ||dsum-sec.casalemedia.com^
 ||dsum.casalemedia.com^
+||dsungx.com^
 ||dsupiohdbsmuz.website^
 ||dsuylgujnxqes.site^
 ||dsuyspjorroea.site^
@@ -547363,6 +547380,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||hlgqbkgvfvelf.store^
 ||hlhguzuidislw.site^
 ||hlhni.momentumventurex.in.net^
+||hlhudntcgffkk.com^
 ||hlhuihrzbebkv.one^
 ||hlhyzh.fann.cz^
 ||hlidn88.com^
@@ -559693,6 +559711,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||importsnow.erectreset.in.net^
 ||importuni.webback.in.net^
 ||imposeestimatesunflower.com^
+||imposerphonic.cyou^
 ||imposi.com^
 ||imposible-casino.com^
 ||impossibilitypollute.com^
@@ -583998,6 +584017,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||kexa600200.ddns.net^
 ||kexesflook.cfd^
 ||kexin001.com^
+||kexjclytx.com^
 ||kexmrj.bestafair.net^
 ||kexojito.com^
 ||kexoncqnunjhn.online^
@@ -585184,6 +585204,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||kingchance-casino.com^
 ||kingclub.com^
 ||kingcmd368.com^
+||kingcoderschacker.qpon^
 ||kingcoinscasino.net^
 ||kingcoinscasino.org^
 ||kingcoinscasino1.com^
@@ -654633,6 +654654,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||nlink.at^
 ||nlink.com.br^
 ||nljackscasino.com^
+||nljfmwokwmufoz.rest^
 ||nljh0pnegv.data.adobedc.net^
 ||nljixfiu.com^
 ||nljjem.honeys-onlineshop.com^
@@ -659046,6 +659068,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||nuzehescwgfmr.site^
 ||nuzon2-cdn-settings.appsflyersdk.com^
 ||nuzon2-launches.appsflyersdk.com^
+||nuzoqxlu.in^
 ||nuzostgcylun.com^
 ||nuzucao.com^
 ||nuzwyjca.icu^
@@ -677798,6 +677821,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||parisjogo.bet^
 ||parislutte2017.com^
 ||parismahjong.com^
+||parisonmenkibsattie.cyou^
 ||parispg.bet^
 ||parispicturesnewtab.com^
 ||parisprofit.com^
@@ -687696,6 +687720,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||pjatvq-cdn-settings.appsflyersdk.com^
 ||pjatvq-launches.appsflyersdk.com^
 ||pjb.casino^
+||pjb9vnr3knxiewvuojr35fxlijeb31jmymj8x75.cfd^
 ||pjbgowoswnxul.website^
 ||pjbncv.ode.co.kr^
 ||pjbpryjubfloy.website^
@@ -705756,6 +705781,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||qbe5es-conversions.appsflyersdk.com^
 ||qbe5es-dlsdk.appsflyersdk.com^
 ||qbe5es-launches.appsflyersdk.com^
+||qbenmqrslh.com^
 ||qbenty.cfd^
 ||qbermy.daxon.fr^
 ||qbesjhbmsbi.com^
@@ -759711,6 +759737,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||sm.stjude.org^
 ||sm.susthatarkendro.shop^
 ||sm0rjfl.com^
+||sm20j.xyz^
 ||sm2ralisg.com^
 ||sm611.com^
 ||sm66.com^
@@ -888344,6 +888371,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||zw5ywaobiu.com^
 ||zw7kvifj268tmhfgp6.cfd^
 ||zw88trk.com^
+||zwaabpjit.in^
 ||zwaar.net^
 ||zwaar.org^
 ||zwakiste.firebaseapp.com^

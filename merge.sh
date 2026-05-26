@@ -68,7 +68,7 @@ urls=(
 # === X 🔴 IDN: ABPindo -filter_22.txt:: Adguard
 #"https://adguardteam.github.io/HostlistsRegistry/assets/filter_22.txt"
 # === 🟢  IRN: PersianBlocker list -filter_19.txt:: Adguard
-#"https://adguardteam.github.io/HostlistsRegistry/assets/filter_19.txt"
+"https://adguardteam.github.io/HostlistsRegistry/assets/filter_19.txt"
 # === X 🔴 ISR: EasyList Hebrew -filter_43.txt:: Adguard
 #"https://adguardteam.github.io/HostlistsRegistry/assets/filter_43.txt"
 # === X 🔴 KOR: List-KR DNS -filter_25.txt:: Adguard
@@ -124,6 +124,7 @@ urls=(
 "https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt"
 # === 🟢  Malicious URL Blocklist -filter_11.txt:: Adguard
 "https://adguardteam.github.io/HostlistsRegistry/assets/filter_11.txt"
+# =========== END
 )
 
 # ===== download =====
@@ -143,10 +144,29 @@ sort -u cleaned.txt > merged_clean.txt
 cat <<EOF > whitelist.txt
 # ==== WHITELIST ====
 # remove # to enable
-# @@||google.com^
-# @@||gstatic.com^
-# @@||cloudflare.com^
-@@||dnsforge.de^
+#@@||dns.google.com^$important
+#@@||cloudflare.com^$important
+#@@||cloudflare-dns.com^$important
+#@@||gstatic.com^$important
+@@||dnsforge.de^$important
+@@||mymax.top^$important
+@@||dnsz.in^$important
+@@||plusiptv.dnsz.in^$important
+@@||tvdns.top^$important
+@@||plusiptv.tvdns.top^$important
+@@||media-shop.top^$important
+@@||filimo.com^$important
+@@||namava.ir^$important
+@@||filmnet.ir^$important
+@@||snapp.site^$important
+@@||aptel.ir^$important
+@@||soft98.ir^$important
+#@@||github.com^$important
+#@@||tailscale.com^$important
+#@@||zerotier.com^$important
+#@@||goodcloud.xyz^$important
+#@@||astrowarp.net^$important
+#@@||youtubei.googleapis.com^$important
 EOF
 
 # ===== final =====

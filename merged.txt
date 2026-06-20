@@ -29,7 +29,6 @@
 ! Description: Blocklist of malicious websites based on the Database dump of Abuse.ch URLhaus
 ! Description: Blocklist of phishing websites, based on PhishTank and OpenPhish lists
 ! Description: Blocklist with hostnames of ad and tracking servers
-! Description: Blocks Apple native broadband trackers that track your activity.
 ! Description: Blocks URL shorteners.
 ! Description: Blocks Windows/Office native broadband trackers that track your activity.
 ! Description: Blocks dating websites.
@@ -99,7 +98,6 @@
 ! Last modified: 2026-06-19T19:38:51.681Z
 ! Last modified: 2026-06-20T05:38:41.226Z
 ! Last modified: 2026-06-20T10:53:49.453Z
-! Last modified: 2026-06-20T11:43:54.773Z
 ! Last modified: 2026-06-20T12:48:38.109Z
 ! Last modified: 2026-06-20T12:48:40.310Z
 ! Last modified: 2026-06-20T16:39:24.285Z
@@ -118,7 +116,6 @@
 ! Title: Dandelion Sprout's Anti-Malware List
 ! Title: Dandelion Sprout's Game Console Adblock List
 ! Title: HaGeZi's Anti-Piracy Blocklist
-! Title: HaGeZi's Apple Tracker Blocklist
 ! Title: HaGeZi's Badware Hoster Blocklist
 ! Title: HaGeZi's DNS Rebind Protection
 ! Title: HaGeZi's DynDNS Blocklist
@@ -141,7 +138,6 @@
 ! Title: The Big List of Hacked Malware Web Sites
 ! Title: Ukrainian Security Filter
 ! Title: uBlock₀ filters – Badware risks
-! Version: 1.0.0.13
 ! Version: 1.0.0.19
 ! Version: 1.0.0.7
 ! Version: 1.0.1.13
@@ -262121,7 +262117,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||ab-testing-posthog-877321.webflow.io^
 ||ab.4wank.com^
 ||ab.adrecreate.com^
-||ab.apple.com.akadns.net^
 ||ab.blogs.es^
 ||ab.cnbanbao.com^
 ||ab.co^
@@ -263638,7 +263633,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||aceyearling.com^
 ||aceztrims.pages.dev^
 ||acf-zem-biz-kal-por-sp18ct3.pages.dev^
-||acfeedbackws.icloud.com^
 ||acfftsceoczhb.space^
 ||acfth.broadwayinchicago.com^
 ||acfun-log-sdk.ksapisrv.com^
@@ -290377,7 +290371,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||appleid.me^
 ||appleidappleid.com^
 ||appleidpassword.com^
-||applemediaservices.com^
 ||applenetbd.com^
 ||appleofedenshoes.shop^
 ||applerhinoceros.com^
@@ -316510,8 +316503,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||cdn-v3.conductrics.net^
 ||cdn-vz.ts.mtvnservices.com^
 ||cdn-x.net^
-||cdn-xp-ingest-ab.v.aaplimg.com^
-||cdn-xp-ingest.edge.apple^
 ||cdn-z.net^
 ||cdn.007moms.com^
 ||cdn.02xl.com^
@@ -331678,12 +331669,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||cst.innogames.de^
 ||cstaipas.pt^
 ||cstasa.ca^
-||cstat-lb.apple.com.akadns.net^
-||cstat-origin.apple.com^
-||cstat.apple.com.edgesuite.net^
-||cstat.apple.com^
-||cstat.cdn-apple.com^
-||cstat.g.aaplimg.com^
 ||cstat.nextel.com.ua^
 ||cstatic.weborama.fr^
 ||cstats.sankakucomplex.com^
@@ -340748,7 +340733,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||databasesgoingsenior.com^
 ||databasesgossipy.com^
 ||databaseupgrade.formaloo.co^
-||databeacon.apple.com^
 ||databerries.com^
 ||datablocks.net^
 ||databoat.zenkube.com^
@@ -340773,7 +340757,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||datacollect.cisco.com^
 ||datacollected.innerflourish.info^
 ||datacollection.adelaideuni.edu.au^
-||datacollection.apple.com^
 ||datacollection.beymen.com^
 ||datacollection.uve.weibo.com^
 ||datacollector-*.dt.dbankcloud.cn^
@@ -345310,9 +345293,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||diadasmaes-belezanaweb.vercel.app^
 ||diag-clim-ability.eu^
 ||diag-wagen.de^
-||diagassets-lb.apple.com.akadns.net^
-||diagassets.apple.com^
-||diagassets.g.aaplimg.com^
 ||diageo.pages.dev^
 ||diagmon-policy.samsungdm.com^
 ||diagmon-serviceapi.samsungdm.com^
@@ -345325,8 +345305,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||diagnosisintriguingorganizer.com^
 ||diagnosisscript.com^
 ||diagnostics-eudb.office.com^
-||diagnostics.apple.com.akadns.net^
-||diagnostics.apple.com^
 ||diagnostics.huedatastore.com^
 ||diagnostics.office.com^
 ||diagnostics.rakam.io^
@@ -364315,7 +364293,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||experimentation.chase.com^
 ||experimentcaptivityhidden.com^
 ||experiments.apple.com.edgekey.net^
-||experiments.apple.com^
 ||experiments.parsely.com^
 ||experiments.sparanoid.net^
 ||experimentscalp.com^
@@ -367942,8 +367919,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||feedbackrapt.com^
 ||feedbackresearch.com^
 ||feedbackstorage.blob.core.chinacloudapi.cn^
-||feedbackws.fe.apple-dns.cn^
-||feedbackws.fe.apple-dns.net^
 ||feedbackws.fe2.apple-dns.net^
 ||feedbackws.icloud.com.cn^
 ||feedbackws.icloud.com^
@@ -392808,7 +392783,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||h4g3z1-dyndns.web.app^
 ||h4g3z1-hoster.web.app^
 ||h4g3z1-multi.web.app^
-||h4g3z1-native.apple.web.app^
 ||h4g3z1-native.winoffice.web.app^
 ||h4g3z1-urlshortener.web.app^
 ||h4htfgrei0.com^
@@ -402567,7 +402541,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||iadmat.nosdn.127.net^
 ||iadmatapk.nosdn.127.net^
 ||iadmexico-actualizar.weebly.com^
-||iadmoo.apple.com^
 ||iadmusicmat.music.126.net^
 ||iadmusicmatvideo.music.126.net^
 ||iadnet.com^
@@ -403455,9 +403428,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||idhpr.holmeandhadfield.com^
 ||idhtm.bb.com.br^
 ||idiafix.com^
-||idiagnostics-mdn1.apple.com^
-||idiagnostics.apple.com.akadns.net^
-||idiagnostics.apple.com^
 ||idianw.warmteservice.nl^
 ||idiasmorceins.cfd^
 ||idigo.org^
@@ -409559,7 +409529,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||internal.cofrim.com.br^
 ||internal.druidebio.fr^
 ||internal.terrafemina.com^
-||internalcheck.apple.com^
 ||internalcomms.dbschenker.com^
 ||internalcomms.hubinternational.com^
 ||internalcondition.com^
@@ -410508,10 +410477,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||iphonecasinon.com^
 ||iphonecountry.it^
 ||iphonedevtools.com^
-||iphonesubmissions-old.apple.com^
-||iphonesubmissions.apple.com.akadns.net^
-||iphonesubmissions.apple.com^
-||iphonesubmissions.v.aaplimg.com^
 ||iphufr.circleline.com^
 ||ipic.su^
 ||ipify.io^
@@ -424541,7 +424506,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||launch-analytics-plugin.launchpotato.com^
 ||launch-pad.orbitforge.in.net^
 ||launch-point.pav1mirex.lat^
-||launch.apple.com^
 ||launch.newsinc.com^
 ||launch.turnsignal.io^
 ||launch1.co^
@@ -450871,7 +450835,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||marketing.seobusinessreporter.com^
 ||marketing.sepac.com^
 ||marketing.sertantcapital.com^
-||marketing.services.apple^
 ||marketing.sesui.com^
 ||marketing.setaram.com^
 ||marketing.shadow-soft.com^
@@ -455755,7 +455718,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||me-raiffsen.charity^
 ||me-short-link.com^
 ||me-url.com^
-||me.apple-dns.net^
 ||me.coact.org.au^
 ||me.edintattoo.co.uk^
 ||me.golfclub-bruchsal.de^
@@ -468062,7 +468024,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||msbnmxmbjgchc.space^
 ||msbot-verification.github.io^
 ||msboul.gruenwelt.de^
-||msc-dct-prod.msc.apple.com^
 ||msc.baidu.com^
 ||mscaffiliates.com^
 ||mscan.f.360.cn^
@@ -474968,7 +474929,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||news-nogoxe.cc^
 ||news-nomasa.com^
 ||news-nosate.com^
-||news-notification-events.apple.com^
 ||news-nozereme.cc^
 ||news-nudapi.com^
 ||news-numeyi.cc^
@@ -483792,7 +483752,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||odin-domau-lordfilm.ru^
 ||odin-iz-nas-lordfilm.ru^
 ||odin-plus-odins-lordfilm.ru^
-||odin-signals.apple.com^
 ||odin.altitude-sports.com^
 ||odinnadcat-druzej-oushena-lordfilm3.ru^
 ||odinpc.com^
@@ -492454,7 +492413,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||partial-burn.com^
 ||partiality.itunes-apple.com.akadns.net^
 ||partiality.itunes.apple.com.edgekey.net^
-||partiality.itunes.apple.com^
 ||partiallyrunnerproductive.com^
 ||partialrigour.com^
 ||participants.evolv.ai^
@@ -495318,7 +495276,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||performance-bonus-c2206.web.app^
 ||performance-events.guardianapis.com^
 ||performance-logger.minted.com^
-||performance-partners.apple.com^
 ||performance.affiliaxe.com^
 ||performance.athleticgym.com.co^
 ||performance.inncollectiongroup.com^
@@ -496439,7 +496396,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||phoneshieldhub.com^
 ||phoneshieldprotection.com^
 ||phonesrefurb.com^
-||phonesubmissions.apple.com^
 ||phoneupstandingcatholic.com^
 ||phonewarez.net^
 ||phonewf.com^
@@ -504652,7 +504608,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||prod-defaulting-subscriptiontool.gismart.xyz^
 ||prod-dem-collector-elb-611025824.eu-west-1.elb.amazonaws.com^
 ||prod-eh-v1-analytics.servicebus.windows.net^
-||prod-event-relay-api.v.aaplimg.com^
 ||prod-event-relay-books-api.v.aaplimg.com^
 ||prod-event-relay-notes-api.v.aaplimg.com^
 ||prod-event-relay-sports-api.v.aaplimg.com^
@@ -504680,7 +504635,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||prod-metrics.whistles.com^
 ||prod-mhaa.mhtr.be^
 ||prod-msk-ad-analytics-tracker.novofon.ru^
-||prod-news-notification-events.v.aaplimg.com^
 ||prod-pixel-tracking-api-external-api.jobappnetwork.com^
 ||prod-pixel.padsquad.com^
 ||prod-pod4-dvc-telemetry-podlbalb-859465392.us-east-1.elb.amazonaws.com^
@@ -516853,8 +516807,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||radarpichincha.webcindario.com^
 ||radarpulseoftheworld.com^
 ||radarslangecho.com^
-||radarsubmissions.apple.com.akadns.net^
-||radarsubmissions.apple.com^
 ||radarurl.com^
 ||radarwitch.com^
 ||radbafhuhq.in^
@@ -533141,10 +533093,8 @@ zzzzzzzkplpllllpppllpppl.com
 ||searchad-phinf.pstatic.net.static.gscdn.net^
 ||searchad-phinf.pstatic.net^
 ||searchadministrator.com^
-||searchads.apple.com.edgesuite.net^
 ||searchads.apple.com^
 ||searchads.google.com^
-||searchads.lb-apple.com.akadns.net^
 ||searchadventure.net^
 ||searchaize.com^
 ||searchalgo.com^
@@ -534408,7 +534358,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||securemapsonlinecu.weebly.com^
 ||securemecca.com^
 ||securemed.shop^
-||securemetrics-cn.v.aaplimg.com^
 ||securemetrics.apple.com.cn^
 ||securemetrics.apple.com^
 ||securemetrics.bananarepublic.eu^
@@ -534428,7 +534377,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||securemetrics.seb.se^
 ||securemetrics.syf.com^
 ||securemetrics.synchronybusiness.com^
-||securemetrics.v.aaplimg.com^
 ||securemetrics.velotricbike.com^
 ||securemobile-connect.com^
 ||securemvsb.weebly.com^
@@ -553572,7 +553520,6 @@ zzzzzzzkplpllllpppllpppl.com
 ||smon.womenshistorymonth.gov^
 ||smoner.com^
 ||smooch.com^
-||smoot-feedback.v.aaplimg.com^
 ||smoot.egeyikesfet.com^
 ||smootatonic.cyou^
 ||smooth-captcha.com^
@@ -633859,18 +633806,12 @@ zzzzzzzkplpllllpppllpppl.com
 ||xoymkdgsafcdh.site^
 ||xozap.com^
 ||xozqng.imirki9.com^
-||xp-cdn-lb.itunes-apple.com.akadns.net^
-||xp-cdn.apple.com^
-||xp.apple.com.edgekey.net^
-||xp.apple.com^
 ||xp.atlassian.com^
 ||xp.dankestmowburn.com^
 ||xp.dayboynape.click^
-||xp.itunes-apple.com.akadns.net^
 ||xp.maltheoverly.com^
 ||xp.poodleshocuses.cyou^
 ||xp.potailkhussak.com^
-||xp.v.aaplimg.com^
 ||xp0.936.mytemp.website^
 ||xp2023-pix.s3.amazonaws.com^
 ||xp308.cn^

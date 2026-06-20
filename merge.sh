@@ -17,8 +17,8 @@ urls=(
 "https://adguardteam.github.io/HostlistsRegistry/assets/filter_53.txt"
 # === 🟢  Dan Pollock's List -filter_4.txt :: Adguard
 "https://adguardteam.github.io/HostlistsRegistry/assets/filter_4.txt"
-# === 🟢  HaGeZi's Normal Blocklist -filter_34.txt:: Adguard
-"https://adguardteam.github.io/HostlistsRegistry/assets/filter_34.txt"
+# === X 🔴  HaGeZi's Normal Blocklist -filter_34.txt:: Adguard
+# "https://adguardteam.github.io/HostlistsRegistry/assets/filter_34.txt"
 # === 🟢  HaGeZi's Pro Blocklist -filter_48.txt:: Adguard
 "https://adguardteam.github.io/HostlistsRegistry/assets/filter_48.txt"
 # === X 🔴 HaGeZi's Pro++ Blocklist -filter_51.txt :: Adguard
@@ -31,6 +31,8 @@ urls=(
 #"https://adguardteam.github.io/HostlistsRegistry/assets/filter_27.txt"
 # === 🟢  Peter Lowe's Blocklist -filter_3.txt:: Adguard
 "https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt"
+# === 🟢  SHadowWhisperer Tracking list -filter_3.txt:: Adguard
+"https://adguardteam.github.io/HostlistsRegistry/assets/filter_69.txt"
 # === 🟢  Steven Black's List -filter_33.txt:: Adguard
 "https://adguardteam.github.io/HostlistsRegistry/assets/filter_33.txt"
 # =========== ADG Other :: Adguard
@@ -42,10 +44,14 @@ urls=(
 #"https://adguardteam.github.io/HostlistsRegistry/assets/filter_45.txt"
 # === 🟢  HaGeZi's Anti-Piracy Blocklist -filter_46.txt:: Adguard
 "https://adguardteam.github.io/HostlistsRegistry/assets/filter_46.txt"
+# === 🟢  HaGeZi's Apple Trcker -filter_67.txt:: Adguard
+"https://adguardteam.github.io/HostlistsRegistry/assets/filter_67.txt"
 # === 🟢  HaGeZi's Gambling Blocklist -filter_47.txt:: Adguard
 "https://adguardteam.github.io/HostlistsRegistry/assets/filter_47.txt"
 # === X 🔴 HaGeZi's Samsung Tracker Blocklist -filter_61.txt:: Adguard
 #"https://adguardteam.github.io/HostlistsRegistry/assets/filter_61.txt"
+# === X 🔴 HaGeZi's Vivo Tracker Blocklist -filter_65.txt:: Adguard
+#"https://adguardteam.github.io/HostlistsRegistry/assets/filter_65.txt"
 # === 🟢  HaGeZi's Windows/Office Tracker Blocklist -filter_63.txt:: Adguard
 "https://adguardteam.github.io/HostlistsRegistry/assets/filter_63.txt"
 # === X 🔴 HaGeZi's Xiaomi Tracker Blocklist -filter_60.txt:: Adguard
@@ -87,19 +93,21 @@ urls=(
 #"https://adguardteam.github.io/HostlistsRegistry/assets/filter_14.txt"
 # === X 🔴 SWE: Frellwit's Swedish Hosts File -filter_17.txt:: Adguard
 #"https://adguardteam.github.io/HostlistsRegistry/assets/filter_17.txt"
-# === 🟢  TUR: turk-adlist -filter_26.txt:: Adguard
-"https://adguardteam.github.io/HostlistsRegistry/assets/filter_26.txt"
-# === 🟢  TUR: Turkish Ad Hosts -filter_40.txt:: Adguard
-"https://adguardteam.github.io/HostlistsRegistry/assets/filter_40.txt"
+# === X 🔴  TUR: turk-adlist -filter_26.txt:: Adguard
+# "https://adguardteam.github.io/HostlistsRegistry/assets/filter_26.txt"
+# === X 🔴  TUR: Turkish Ad Hosts -filter_40.txt:: Adguard
+# "https://adguardteam.github.io/HostlistsRegistry/assets/filter_40.txt"
 # === X 🔴 VNM: ABPVN List -filter_16.txt:: Adguard
 #"https://adguardteam.github.io/HostlistsRegistry/assets/filter_16.txt"
 # =========== ADG Security :: Adguard
-# === 🟢  hishing URL Blocklist (PhishTank and OpenPhish -filter_30.txt:: Adguard
+# === 🟢  phishing URL Blocklist (PhishTank and OpenPhish -filter_30.txt:: Adguard
 "https://adguardteam.github.io/HostlistsRegistry/assets/filter_30.txt"
 # === 🟢  Dandelion Sprout's Anti-Malware List -filter_12.txt:: Adguard
 "https://adguardteam.github.io/HostlistsRegistry/assets/filter_12.txt"
 # === 🟢  HaGeZi's Badware Hoster Blocklist -filter_55.txt:: Adguard
 "https://adguardteam.github.io/HostlistsRegistry/assets/filter_55.txt"
+# === 🟢  HaGeZi's DNS Rebind hoster Blocklist -filter_71.txt:: Adguard
+"https://adguardteam.github.io/HostlistsRegistry/assets/filter_71.txt"
 # === 🟢  HaGeZi's DynDNS Blocklist -filter_54.txt:: Adguard
 "https://adguardteam.github.io/HostlistsRegistry/assets/filter_54.txt"
 # === X 🔴 HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass -filter_54.txt :: Adguard
@@ -108,6 +116,8 @@ urls=(
 "https://adguardteam.github.io/HostlistsRegistry/assets/filter_56.txt"
 # === X 🔴 HaGeZi's Threat Intelligence Feeds -filter_44.txt:: Adguard
 #"https://adguardteam.github.io/HostlistsRegistry/assets/filter_44.txt"
+# === 🟢  HaGeZi's URL Shortener Blocklist -filter_68.txt:: Adguard
+"https://adguardteam.github.io/HostlistsRegistry/assets/filter_68.txt"
 # === 🟢  NoCoin Filter List -filter_8.txt:: Adguard
 "https://adguardteam.github.io/HostlistsRegistry/assets/filter_8.txt"
 # === 🟢  Phishing Army -filter_18.txt:: Adguard

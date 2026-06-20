@@ -44,8 +44,8 @@ urls=(
 #"https://adguardteam.github.io/HostlistsRegistry/assets/filter_45.txt"
 # === 🟢  HaGeZi's Anti-Piracy Blocklist -filter_46.txt:: Adguard
 "https://adguardteam.github.io/HostlistsRegistry/assets/filter_46.txt"
-# === 🟢  HaGeZi's Apple Trcker -filter_67.txt:: Adguard
-"https://adguardteam.github.io/HostlistsRegistry/assets/filter_67.txt"
+# === X 🔴  HaGeZi's Apple Trcker -filter_67.txt:: Adguard
+# "https://adguardteam.github.io/HostlistsRegistry/assets/filter_67.txt"
 # === X 🔴  HaGeZi's Gambling Blocklist -filter_47.txt:: Adguard
 # "https://adguardteam.github.io/HostlistsRegistry/assets/filter_47.txt"
 # === X 🔴 HaGeZi's OPOO & Realme Tracker Blocklist -filter_66.txt:: Adguard

@@ -20,6 +20,13 @@
 @@||usmobile.com^
 @@||goodcloud.xyz^
 @@||astrowarp.net^
+@@||spectrum.net^
+@@||att.com^
+@@||t-mobile.com^
+@@||clover.com^
+@@||parpos.com^
+@@||adp.com^
+@@||olo.com^
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 ! Description: Aims to remove push notifications on sites. Combines eligible rules from AdGuard Popups Filter's anti-push sections and Fanboy's Notifications Blocking List.
@@ -94,7 +101,6 @@
 ! Last modified: 2026-06-29T17:53:26.180Z
 ! Last modified: 2026-06-30T01:08:01.072Z
 ! Last modified: 2026-06-30T03:17:43.545Z
-! Last modified: 2026-06-30T03:18:32.466Z
 ! Last modified: 2026-06-30T05:32:42.963Z
 ! Last modified: 2026-06-30T09:17:30.110Z
 ! Last modified: 2026-06-30T09:17:48.754Z
@@ -104,6 +110,7 @@
 ! Last modified: 2026-06-30T13:44:03.731Z
 ! Last modified: 2026-06-30T13:44:05.033Z
 ! Last modified: 2026-06-30T13:44:05.676Z
+! Last modified: 2026-06-30T15:01:15.184Z
 ! Title: 1Hosts (Lite)
 ! Title: AWAvenue Ads Rule
 ! Title: AdGuard DNS Popup Hosts filter
@@ -156,7 +163,7 @@
 ! Version: 1.0.20.70
 ! Version: 1.0.20.96
 ! Version: 1.0.21.20
-! Version: 1.0.22.6
+! Version: 1.0.22.7
 ! Version: 1.0.25.83
 ! Version: 1.0.26.5
 ! Version: 1.0.27.55
@@ -461868,6 +461875,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||meetstorages.com^
 ||meettattooedsingles.com^
 ||meetu.ps^
+||meetu.usd1.party^
 ||meetupplanet.com^
 ||meeturfate.com^
 ||meeturlovee.com^

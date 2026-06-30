@@ -176,6 +176,13 @@ cat <<EOF > whitelist.txt
 @@||usmobile.com^$important
 @@||goodcloud.xyz^$important
 @@||astrowarp.net^$important
+@@||spectrum.net^$important
+@@||att.com^$important
+@@||t-mobile.com^$important
+@@||clover.com^$important
+@@||parpos.com^$important
+@@||adp.com^$important
+@@||olo.com^$important
 EOF
 
 # ===== final =====

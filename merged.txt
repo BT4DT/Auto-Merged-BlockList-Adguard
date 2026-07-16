@@ -145,9 +145,9 @@
 ! Last modified: 2026-07-16T10:43:48.658Z
 ! Last modified: 2026-07-16T10:44:15.543Z
 ! Last modified: 2026-07-16T10:44:38.386Z
-! Last modified: 2026-07-16T11:35:26.445Z
 ! Last modified: 2026-07-16T12:41:55.941Z
 ! Last modified: 2026-07-16T12:41:57.543Z
+! Last modified: 2026-07-16T13:36:38.688Z
 ! Title: 1Hosts (Lite)
 ! Title: AWAvenue Ads Rule
 ! Title: AdGuard DNS Popup Hosts filter
@@ -208,7 +208,7 @@
 ! Version: 1.0.31.51
 ! Version: 1.0.41.78
 ! Version: 1.0.5.61
-! Version: 1.0.72.79
+! Version: 1.0.72.80
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
 *-ad.wtzw.com*
@@ -297473,6 +297473,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||bdjwq9-cdn-settings.appsflyersdk.com^
 ||bdjwq9-launches.appsflyersdk.com^
 ||bdkrltbdwxmxe.space^
+||bdkscuti.com^
 ||bdkuth.smartbuyglasses.co.uk^
 ||bdlan.net^
 ||bdli.jacopomtl.com^
@@ -298286,6 +298287,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||befuinonmjfpe.online^
 ||begantotaled.cfd^
 ||begantotireo.xyz^
+||begaryreruns.qpon^
 ||begband.com^
 ||begbjfecjaddbcehaai.world^
 ||begeainrkdubh.online^
@@ -309470,6 +309472,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||byz28tfk.rasmfani.xyz^
 ||byzantine-mosaic-restoration.garden^
 ||byzantoutride.cfd^
+||byzantsperoxid.qpon^
 ||byzg.org^
 ||bz-ad-lgsmartad-com.aws-prd.net^
 ||bz-ipdx.baidu.com^
@@ -351377,6 +351380,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||dukingdraon.com^
 ||dukirliaon.com^
 ||duksomsy.com^
+||dukumawheeshteclated.qpon^
 ||dukwznn0x.com^
 ||dula-gold.com^
 ||dulcityawakes.click^
@@ -356588,6 +356592,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||elelasticalsdebat.org^
 ||elelongservice.com^
 ||elemeabbey.shop^
+||elemeagarics.cfd^
 ||elementaloutletbullet.com^
 ||elementaltv.io^
 ||elementariu-lordfilm.ru^
@@ -360046,6 +360051,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||eriadsrvr.com^
 ||erica-sandy-law-practice-e6f81b.webflow.io^
 ||ericadams.link^
+||ericasedea.cyou^
 ||ericasrcrachets.cyou^
 ||ericiusblurtedcallat.cyou^
 ||ericknamyk.diowebhost.com^
@@ -392593,6 +392599,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||gyetvai.com^
 ||gyewueuw.zya.me^
 ||gyfgwpqnkitsd.website^
+||gyfpxohkisylr.website^
 ||gyftxmucdqvup.xyz^
 ||gyftyuhinhbg.w3spaces.com^
 ||gyfunds.cc^
@@ -404630,6 +404637,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||ifgaveransom.com^
 ||ifgvv.pondfountaindepot.com^
 ||ifhandlingping.com^
+||ifhfsjtnrsrje.online^
 ||ifi-trk.informa.com^
 ||ifificiada9.com^
 ||ifigent.com^
@@ -417726,6 +417734,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||jtp.expressen.se^
 ||jtpo9nh8lz7ouexviqhyolhecx27gqk.cfd^
 ||jtpostr.cc^
+||jtpvecghbpijs.online^
 ||jtqfhx.kidioui.fr^
 ||jtqqzvqrd.net^
 ||jtracking-gate.lulusoft.com^
@@ -425345,6 +425354,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||l.osakazine.net^
 ||l.otemo-yan.net^
 ||l.ouest-france.fr^
+||l.ovhcloud.com^
 ||l.page.worldvision.ca^
 ||l.player.ooyala.com^
 ||l.prageru.com^
@@ -427394,6 +427404,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||ldvelia.work^
 ||ldvkmzygcoido.site^
 ||ldvuz.org^
+||ldwizdqfenjo.com^
 ||ldxeyz.openmedical.co.kr^
 ||ldxpmz.people.com^
 ||ldy5.com^
@@ -463358,6 +463369,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||meltethsplayed.com^
 ||meltiest.jp^
 ||meltingbouncingcentimetre.com^
+||meltingpristaw.qpon^
 ||meltmeshsite.voda4flux.surf^
 ||meltmilk.com^
 ||meltonosse.qpon^
@@ -470563,6 +470575,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||mltwwtn.jamjahani.one^
 ||mlu2pcm3i6i5qo.cfd^
 ||mlunited.org^
+||mlurq1t718gv3u.cfd^
 ||mlusom.weebly.com^
 ||mluszz.eyelashgarage.jp^
 ||mlv465778p0.firebaseapp.com^
@@ -475103,6 +475116,8 @@ zzzzzzzkplpllllpppllpppl.com
 ||mtacse-ththgsplyukpstibslncr5758asrtd.start.page^
 ||mtaeeslwsfxjw.club^
 ||mtaextesion.gitbook.io^
+||mtag-*.wedevs.com^
+||mtag.markopolo.ai^
 ||mtag.mman.kr^
 ||mtag49.midas-i.com^
 ||mtags.arcgis.com^
@@ -478462,6 +478477,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||mzpgfh.uhabq9.com^
 ||mzpyn.sm188login.cfd^
 ||mzqnq.ouraring.com^
+||mzqoazvdctmny.website^
 ||mzrawmzkdtbvd.online^
 ||mzs.mybluehost.me^
 ||mzsantsemsgll.website^
@@ -486915,6 +486931,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||nvpartnerspromo.com^$dnsrewrite=ad-block.dns.adguard.com
 ||nvpbwocxzbumr.space^
 ||nvpdaa.brightcellars.com^
+||nvproxvrraapi.website^
 ||nvpylxkdptacm.today^
 ||nvqglurpogfos.site^
 ||nvqlygqniapyb.site^
@@ -494459,6 +494476,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||oobjgphwqy.com^
 ||oobsailsaum.net^
 ||oobsaurt.net^
+||oobtsfftqrjqy.website^
 ||ooceqolgvobwy.online^
 ||oochourtoack.net^
 ||oockighuchee.com^
@@ -497539,6 +497557,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||ovhh-19f4a.web.app^
 ||ovhnextmillmedia.com^
 ||ovi.mybluehost.me^
+||oviaqxcvslzms.website^
 ||ovicepen.com^
 ||ovidtatu.qpon^
 ||oviscurdoofencer.cyou^
@@ -498128,6 +498147,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||ozramquqvttqy.space^
 ||ozrenmilat.eu^
 ||ozrgkaphe.in^
+||ozrk25vlbihlio9.rest^
 ||ozrnsf3ta.com^
 ||ozsbe.goggles4u.com^
 ||ozsiwqbeanupu.space^
@@ -504752,6 +504772,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||piloussouffl.com^
 ||pilqlkpbxgc.com^
 ||pilrskqnworjg.online^
+||pilulagabitaroc.cyou^
 ||pilusligalerie.com^
 ||pilutce.com^
 ||pilvqeqhquiissc.com^
@@ -518291,6 +518312,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||pxejwtuyml.com^
 ||pxekfmmylcrqo.space^
 ||pxf.io^
+||pxfffwnbqlwfz.website^
 ||pxgo.net^
 ||pxgpnp.angara.com^
 ||pxgruigwgorib.website^
@@ -520113,6 +520135,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||qnu58lbv.varzeshlife.ir^
 ||qnuaqbez.anodaz.vip^
 ||qnuqorqohlcxy.online^
+||qnutvzoyjpzce.website^
 ||qnuwjs.trustedshops.de^
 ||qnuyqu.ubierzsie.com^
 ||qnuzwe.nomanwalksalone.com^
@@ -525178,6 +525201,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||raffelpc.de^
 ||rafferyteiids.shop^
 ||raffiapoppean.shop^
+||raffishfellani.shop^
 ||raffl-e4071.firebaseapp.com^
 ||raffl-e4071.web.app^
 ||raffle-entry.info.smart.com^
@@ -534883,6 +534907,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||rtegbv.jmclaughlin.com^
 ||rterybrstutnrsbberve.com^
 ||rteutcjg.hugugtatbigi.xyz^
+||rtfmihmkwgxlh.online^
 ||rtfnm.com^
 ||rtfreeski.com^
 ||rtg.rubiconredirect.com^
@@ -555316,6 +555341,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||shrek.6.cn^
 ||shrekis.life^
 ||shreklordfilm.top^
+||shrendlouisa.cfd^
 ||shres.net^
 ||shrewdcrumple.com^
 ||shrewddrainer.cyou^
@@ -557331,6 +557357,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||sketc-gate.multi5ardina.in.net^
 ||sketchbasic.tavro4xel.lat^
 ||sketchco.com.sa^
+||sketchdecime.cfd^
 ||sketchfab1581.autos^
 ||sketchinferiorunits.com^
 ||sketchneuron.nor8tavil.in.net^
@@ -598749,6 +598776,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||thump-night-stand.com^
 ||thumpdrownthreat.com^
 ||thumuzisho.com^
+||thunaronement.cfd^
 ||thunderanvil.top^
 ||thunderapostrophefunds.com^
 ||thunderboltcity.com^
@@ -611456,6 +611484,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||trnox.com^
 ||trnqify.com^
 ||troakssneaps.shop^
+||trochaarched.qpon^
 ||trocksregroup.shop^
 ||trodspivery.com^
 ||troeqzgr.shop^
@@ -613028,6 +613057,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||tupperwareza.com^
 ||tupunaputtee.top^
 ||tuq.mybluehost.me^
+||tuqahfxt.com^
 ||tuqakbsucajc.com^
 ||tuqojtancv.com^
 ||tur-ptt-posen.
@@ -618706,6 +618736,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||unskilledshiver.com^
 ||unslatesopped.com^
 ||unslaveslier.qpon^
+||unsmartbatteau.cfd^
 ||unsmokyhashing.cfd^
 ||unsnughachure.top^
 ||unsolarinclavefazed.cyou^
@@ -631961,6 +631992,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||warp9computers.com^
 ||warpcapesecretly.com^
 ||warped-bus.com^
+||warped-gather.pro^
 ||warpedaside.com^
 ||warpedbrother.pro^
 ||warpedguidance.com^
@@ -650811,6 +650843,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||zaehlwerk.zimt.uni-siegen.de^
 ||zaena.site^
 ||zaevoqatiyylf.online^
+||zaffircream.shop^
 ||zaffirgoggan.shop^
 ||zafiti01.webtrekk-us.net^
 ||zaflsugu.icu^

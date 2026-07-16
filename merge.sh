@@ -188,6 +188,10 @@ cat <<EOF > whitelist.txt
 @@||fisglobal.com^$important
 @@||brinkpos.net^$important
 @@||partech.com^$important
+@@||wgiftcard.com^$important
+@@||pinkberry.com^$important
+@@||kahalamgmt.com^$important
+@@||mtygroup.com^$important
 @@||tech4dteam.com^$important
 EOF
 

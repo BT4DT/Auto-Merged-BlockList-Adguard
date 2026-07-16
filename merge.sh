@@ -193,6 +193,32 @@ cat <<EOF > whitelist.txt
 @@||kahalamgmt.com^$important
 @@||mtygroup.com^$important
 @@||tech4dteam.com^$important
+@@||americanexpress.com^$important
+@@||amexnetwork.com^$important
+@@||bankofamerica.com^$important
+@@||bofa.com^$important
+@@||wellsfargo.com^$important
+@@||chase.com^$important
+@@||jpmorganchase.com^$important
+@@||capitalone.com^$important
+@@||citibank.com^$important
+@@||citi.com^$important
+@@||usbank.com^$important
+@@||pnc.com^$important
+@@||truist.com^$important
+@@||discover.com^$important
+@@||synchrony.com^$important
+@@||navyfederal.org^$important
+@@||regions.com^$important
+@@||ally.com^$important
+@@||visa.com^$important
+@@||mastercard.com^$important
+@@||americanexpress.com^$important
+@@||discover.com^$important
+@@||fisglobal.com^$important
+@@||firstdata.com^$important
+@@||globalpaymentsinc.com^$important
+@@||worldpay.com^$important
 EOF
 
 # ===== final =====

@@ -31,6 +31,7 @@
 @@||firstdata.com^
 @@||fisglobal.com^
 @@||brinkpos.net^
+@@||partech.com^
 @@||tech4dteam.com^
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
@@ -113,9 +114,9 @@
 ! Last modified: 2026-07-15T23:23:58.691Z
 ! Last modified: 2026-07-16T00:45:06.792Z
 ! Last modified: 2026-07-16T00:45:08.505Z
-! Last modified: 2026-07-16T05:07:32.808Z
 ! Last modified: 2026-07-16T05:08:14.624Z
 ! Last modified: 2026-07-16T05:08:16.915Z
+! Last modified: 2026-07-16T06:57:47.246Z
 ! Title: 1Hosts (Lite)
 ! Title: AWAvenue Ads Rule
 ! Title: AdGuard DNS Popup Hosts filter
@@ -176,7 +177,7 @@
 ! Version: 1.0.31.50
 ! Version: 1.0.41.77
 ! Version: 1.0.5.60
-! Version: 1.0.72.75
+! Version: 1.0.72.76
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
 *-ad.wtzw.com*
@@ -271055,6 +271056,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||alicoccdnct-xn.inter.71edge.com^
 ||alicshop.com^
 ||alictibet.com^
+||aliculacoulees.shop^
 ||aliddn.cn^
 ||aliddn.com^
 ||alie.kr^
@@ -274728,6 +274730,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||ambientplatform.vn^
 ||ambientquickieemergency.com^
 ||ambienttechnology.eu^
+||ambiguellice.shop^
 ||ambiguityhalfmoon.com^
 ||ambiguityhelperapathy.com^
 ||ambiguityneighbourhood.com^
@@ -305356,6 +305359,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||bpce.demdex.net^
 ||bpceceprod1609.112.2o7.net^
 ||bpcham.de^
+||bpchucmkmflez.online^
 ||bpcieckgpwjqp.site^
 ||bpcwde.mall.cz^
 ||bpdppdyuhqvoxb.net^
@@ -311114,6 +311118,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||camads.workers.dev^$dnsrewrite=ad-block.dns.adguard.com
 ||camailcowpath.com^
 ||camainks.com^
+||camaligdawe.shop^
 ||camaligminchen.qpon^
 ||camaligsnuckkreng.cyou^
 ||camara.ge^
@@ -385961,6 +385966,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||grantexx.com^
 ||grantexx.gr^
 ||granthamperydoziest.qpon^
+||granthdude.qpon^
 ||grantohlogistics.com^
 ||grantsreach.com^
 ||grantstraining.com^
@@ -401486,6 +401492,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||huluplowersstellas.cfd^
 ||huluvideoanalytics.demdex.net^
 ||hulyagedikci.com^
+||hulykiyi.cfd^
 ||hum.works^
 ||huma-finance.wixstudio.com^
 ||huma.na^
@@ -411426,6 +411433,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||iqfy.xyz^
 ||iqgblqeihwhvw.website^
 ||iqgrerrkcwdxj.store^
+||iqhfpu.com^
 ||iqhgn.goggles4u.com^
 ||iqhpvoccjerkf.website^
 ||iqhsxlqqgdcnk.space^
@@ -413145,6 +413153,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||ixylwategbrdq.site^
 ||iy.com.cn^
 ||iy.cxtkctckl2qzv2.cyou^
+||iy0keh7qj7.com^
 ||iyampam.com^
 ||iyangka.com^
 ||iyapvwlqyqxafcn.com^
@@ -414193,6 +414202,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||jboth.orderblinds.co.uk^
 ||jbotstrap.com^
 ||jboztgcwxnvoc.website^
+||jbpcjbbqfokfi.site^
 ||jbppvz.icu^
 ||jbq.mybluehost.me^
 ||jbqh.betaverse.casino^
@@ -414201,6 +414211,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||jbrieonvryioo.space^
 ||jbriyba0f.com^
 ||jbrj92scltrbtv7mzejvmovw.duckdns.org^
+||jbsgwvduvuvtz.site^
 ||jbsmediaventures.com^
 ||jbtlg.nectarsleep.com^
 ||jbtqolskzxoky.online^
@@ -422450,6 +422461,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||kmvcity.com^
 ||kmvcqzltfnqvp.space^
 ||kmvp.top^
+||kmwbwaopmgfye.online^
 ||kmwefkwmwfkmgklfa.jovensdesucesso.com.br^
 ||kmwxuexcxpgopo.cfd^
 ||kmwzyajvivjuz.space^
@@ -473725,6 +473737,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||mpgtft.zoobeauval.com^
 ||mphdd.multipharma.be^
 ||mphhnxzquuyij.store^
+||mphnonwar.cyou^
 ||mphsumiyhfelp.website^
 ||mphuvnjjobtyc.com^
 ||mphwdbadwne.xyz^
@@ -497175,6 +497188,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||own-quatro.com^
 ||own-ur-crown.com^
 ||own3d.tv^
+||ownablearmful.qpon^
 ||owndangle.com^
 ||owndata.network^
 ||ownentertainment.com^
@@ -510240,6 +510254,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||ppmcdv.com^
 ||ppmxp.com^
 ||ppnat.ivamfg.com^
+||ppnocdzdwlvpk.space^
 ||ppoctintia.weebly.com^
 ||ppogame.com^
 ||ppoi.org^
@@ -518575,6 +518590,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||qcmlhnbuauerm.com^
 ||qcmph.xyz^
 ||qcmxuy.hardloop.de^
+||qcndeonvavhvk.website^
 ||qcnlh.spicycubes.co^
 ||qcnmt.swimoutlet.com^
 ||qcnpyyughyluz.online^
@@ -519025,6 +519041,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||qhvcdmbjobhoo.space^
 ||qhvgn.ancientnutrition.com^
 ||qhvltajo.shop^
+||qhxowrdcynzrm.space^
 ||qhxrexamnxunp.site^
 ||qhy0wolx.casinomhub.bet^
 ||qhyahomlcloih.com^
@@ -521184,6 +521201,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||qvikar.com^
 ||qvikgrtirgcjs.online^
 ||qvipoojy.karafarini.shop^
+||qvkfemreijpbx.space^
 ||qvkweketjnnfu.space^
 ||qvlaccdtxdrsi.site^
 ||qvlcdw.ho-br.com^
@@ -531472,6 +531490,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||rjkiuk-launches.appsflyersdk.com^
 ||rjklvflzpfmsm.space^
 ||rjktechmobile.com^
+||rjleugh1yxk9w5gentvfpjeu.rest^
 ||rjlfacjephuqy.website^
 ||rjlhoi.torch.id^
 ||rjliakirakufw.space^
@@ -588492,6 +588511,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||swoganfr.com^
 ||swogo.net^
 ||swohtiohvqa.com^
+||swojarawv.com^
 ||swollenbasis.com^
 ||swollentriumphalregret.com^
 ||swonswksodcbc.website^
@@ -595654,6 +595674,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||terpensomdel.qpon^
 ||terpenwordman.top^
 ||terperbelomo.info^
+||terpineforpass.cyou^
 ||terr-53p.bexlor-net.in.net^
 ||terra-life.company^
 ||terra-money.wixstudio.com^
@@ -612172,6 +612193,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||tubevay.com^
 ||tubeviral.com^
 ||tubfishhechtia.cfd^
+||tubfulgaloshe.cfd^
 ||tubfurryhen.com^
 ||tubiaoyi.com^
 ||tubidy.to^
@@ -618741,6 +618763,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||uprightwrixlenome.cyou^
 ||uprimp.com^
 ||upripsoleas.cyou^
+||uprisegriddleharico.cfd^
 ||upriserz.link^
 ||uprising.kip.pro^
 ||uprius.com^
@@ -618944,6 +618967,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||uqmvld.toitsutest.com^
 ||uqnnb.staud.clothing^
 ||uqnnvhk.ericjavits.com^
+||uqnqznlbfnxxt.site^
 ||uqocjf.campingred.es^
 ||uqoefwpqdrpss.website^
 ||uqojzdtzbonpz.online^
@@ -618971,6 +618995,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||uqylahqhxk.icu^
 ||uqyvmu-cdn-settings.appsflyersdk.com^
 ||uqyvmu-launches.appsflyersdk.com^
+||uqyxqkpvdxsnp.website^
 ||uqz8xcw9.gamebc.bet^
 ||uqzdgsdiuudfv.space^
 ||uqzns.lovisa.com^
@@ -631993,6 +632018,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||wc5cyztpew2t9po8.cfd^
 ||wc6y3nrv7g.com^
 ||wc7skdzu.yakhbet.com^
+||wc87322357rey4fz.cfd^
 ||wcam.tv^
 ||wcbmp.sugarloaf.com^
 ||wcbxugtfk.com^

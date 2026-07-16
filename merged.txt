@@ -32,7 +32,37 @@
 @@||fisglobal.com^
 @@||brinkpos.net^
 @@||partech.com^
+@@||wgiftcard.com^
+@@||pinkberry.com^
+@@||kahalamgmt.com^
+@@||mtygroup.com^
 @@||tech4dteam.com^
+@@||americanexpress.com^
+@@||amexnetwork.com^
+@@||bankofamerica.com^
+@@||bofa.com^
+@@||wellsfargo.com^
+@@||chase.com^
+@@||jpmorganchase.com^
+@@||capitalone.com^
+@@||citibank.com^
+@@||citi.com^
+@@||usbank.com^
+@@||pnc.com^
+@@||truist.com^
+@@||discover.com^
+@@||synchrony.com^
+@@||navyfederal.org^
+@@||regions.com^
+@@||ally.com^
+@@||visa.com^
+@@||mastercard.com^
+@@||americanexpress.com^
+@@||discover.com^
+@@||fisglobal.com^
+@@||firstdata.com^
+@@||globalpaymentsinc.com^
+@@||worldpay.com^
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 ! Description: Aims to remove push notifications on sites. Combines eligible rules from AdGuard Popups Filter's anti-push sections and Fanboy's Notifications Blocking List.

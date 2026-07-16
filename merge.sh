@@ -186,6 +186,8 @@ cat <<EOF > whitelist.txt
 @@||fdcnet.biz^$important
 @@||firstdata.com^$important
 @@||fisglobal.com^$important
+@@||brinkpos.net^$important
+@@||tech4dteam.com^$important
 EOF
 
 # ===== final =====

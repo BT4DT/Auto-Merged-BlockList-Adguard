@@ -219,6 +219,7 @@ cat <<EOF > whitelist.txt
 @@||firstdata.com^$important
 @@||globalpaymentsinc.com^$important
 @@||worldpay.com^$important
+@@||punchh.com^$important
 EOF
 
 # ===== final =====

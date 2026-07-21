@@ -220,6 +220,19 @@ cat <<EOF > whitelist.txt
 @@||globalpaymentsinc.com^$important
 @@||worldpay.com^$important
 @@||punchh.com^$important
+@@||turkishairlines.com^$important
+@@||qatarairways.com^$important
+@@||emirates.com^$important
+@@||lufthansa.com^$important
+@@||britishairways.com^$important
+@@||airfrance.com^$important
+@@||klm.com^$important
+@@||americanairlines.com^$important
+@@||united.com^$important
+@@||delta.com^$important
+@@||flydubai.com^$important
+@@||pegasus.com^$important
+@@||etihad.com^$important
 EOF
 
 # ===== final =====

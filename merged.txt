@@ -77,6 +77,8 @@
 @@||flydubai.com^
 @@||pegasus.com^
 @@||etihad.com^
+@@||sahibinden.com^
+@@||shbd.io^
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 ! Description: Aims to remove push notifications on sites. Combines eligible rules from AdGuard Popups Filter's anti-push sections and Fanboy's Notifications Blocking List.
@@ -158,9 +160,9 @@
 ! Last modified: 2026-07-26T08:53:57.532Z
 ! Last modified: 2026-07-26T09:44:28.644Z
 ! Last modified: 2026-07-26T11:32:16.764Z
-! Last modified: 2026-07-26T12:30:40.467Z
 ! Last modified: 2026-07-26T13:34:30.840Z
 ! Last modified: 2026-07-26T13:34:33.686Z
+! Last modified: 2026-07-26T14:34:55.645Z
 ! Title: 1Hosts (Lite)
 ! Title: AWAvenue Ads Rule
 ! Title: AdGuard DNS Popup Hosts filter
@@ -221,7 +223,7 @@
 ! Version: 1.0.31.76
 ! Version: 1.0.42.18
 ! Version: 1.0.5.71
-! Version: 1.0.73.93
+! Version: 1.0.73.94
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
 *-ad.wtzw.com*
@@ -302066,6 +302068,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||amazingossearch.com^
 ||amazingtab.com^
 ||amazingtoilalthough.com^
+||amazingyard.pro^
 ||amazlngdate.com^
 ||amaznboxde.com^
 ||amazon-*.shop^
@@ -327728,6 +327731,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||bertasxt.com^
 ||bertchou.com^
 ||berthchopperfilter.com^
+||berthedhippish.shop^
 ||berthfrankly.com^
 ||berthsgigget.com^
 ||bertinresiant.qpon^
@@ -335852,6 +335856,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||bring-it-ons-lordfilm.ru^
 ||bring-your-own-malware.com^
 ||bringalzolaist.qpon^
+||bringertrustle.cfd^
 ||bringknittingwhack.com^
 ||bringmesports.com^
 ||bringmethehats.com^
@@ -376554,6 +376559,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||dividedgrandtoll.com^
 ||dividedintegrationtransparent.com^
 ||dividedkidblur.com^
+||dividedrejoins.cyou^
 ||dividedscientific.com^
 ||dividend56.top^
 ||divideoutdoors.com^
@@ -400505,6 +400511,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||fibrefilamentherself.com^
 ||fibrilaweek.shop^
 ||fibrincdrstroud.cfd^
+||fibroidbubalis.qpon^
 ||fibromataoceanfulmiskeeping.com^
 ||fibtemptation.com^
 ||fibvg.mathishome.com^
@@ -403251,6 +403258,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||flatjeep.com^
 ||flatletgoggafeedbin.cfd^
 ||flatlyfootballdrawback.com^
+||flatmengrimace.cfd^
 ||flatmountain.co.za^
 ||flatrapstifle.com^
 ||flatrate.dk^
@@ -403260,6 +403268,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||flattee.com^
 ||flatten-goinghavethis-weight-lifting.courses^
 ||flattendollar.com^
+||flattenembrawnuvrou.cyou^
 ||flattenpliable.com^
 ||flattenrestoration.com^
 ||flatteringdevout.com^
@@ -403978,6 +403987,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||flowldsb.online^
 ||flowldsd.online^
 ||flowlumen.xyz^
+||flowlysate.qpon^
 ||flowmarriedpressed.com^
 ||flowmaster.cloudflowops.co^
 ||flowmeshnode.kineticgatehub.bet^
@@ -417683,6 +417693,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||goajuzey.com^
 ||goal-soil-see.xyz^
 ||goal2.live^
+||goalagejacanasighter.cyou^
 ||goalagerescous.com^
 ||goalbo.de^
 ||goaleeburrsprater.cyou^
@@ -426709,6 +426720,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||gzsmnojrwfmft.website^
 ||gzsy12348.com^
 ||gztdvuuihunso.website^
+||gztjveqxggzzptpt4rjr.rest^
 ||gztllwfbrmdhg.com^
 ||gzugqzgsfr.com^
 ||gzuvq.sanitairkamer.nl^
@@ -436992,6 +437004,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||huskinessimminentstylus.com^
 ||huskyblue.pro^
 ||huskymiddle.com^
+||huskyoxman.cyou^
 ||huskypartydance.com^
 ||husmicto.com^
 ||husmode.de^
@@ -446107,6 +446120,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||inumbreonr.com^
 ||inumerabl.com^
 ||inurneddoggish.com^
+||inutilecooeed.cyou^
 ||inuvi.com^
 ||inuvo.com^
 ||inuxu.co.in^
@@ -491627,6 +491641,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||m6d3h9vc3z.com^
 ||m6kawtop8f.cfd^
 ||m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me^
+||m6qxdu6m6w.com^
 ||m6r.eu^
 ||m6rahs-cdn-settings.appsflyersdk.com^
 ||m6rahs-conversions.appsflyersdk.com^
@@ -506755,6 +506770,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||mgr.biltmorehotel.com^
 ||mgr.openlogmgr.pics^
 ||mgrafmxbsgjma.store^
+||mgreyouth.cfd^
 ||mgrhe.myvolleybox.com^
 ||mgrwaui4.top^
 ||mgs.instacart.com^
@@ -507821,6 +507837,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||minfier.com^
 ||mingdns.wang^
 ||mingdrum.com^
+||mingiercolugo.cyou^
 ||mingle2.com^
 ||mingleassertiveregard.com^
 ||mingledpayoff.com^
@@ -527573,6 +527590,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||nxsg.us^
 ||nxslink.thehill.com^
 ||nxss.link^
+||nxszybhvuiblq.online^
 ||nxt-psh.com^
 ||nxt-psh.com^$dnsrewrite=ad-block.dns.adguard.com
 ||nxt.proximus.be^
@@ -533640,6 +533658,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||omatren7.pages.dev^
 ||omatri.info^
 ||omaumeng.net^
+||omaupeaizqufr.online^
 ||omavero-fi.firebaseapp.com^
 ||omavero-fi.web.app^
 ||omavero-gov.firebaseapp.com^
@@ -538165,6 +538184,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||outgateprat.com^
 ||outgazewiglet.qpon^
 ||outglanceauditioning.com^
+||outgoeslyase.cfd^
 ||outgoingbane.com^
 ||outgoingpositive.com^
 ||outgoingproblem.com^
@@ -539124,6 +539144,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||oyotii.sportokay.com^
 ||oyoxyc.josefsteiner.at^
 ||oyqqqexh.maharatmodiran.xyz^
+||oyqxdtshsivhl.online^
 ||oyrsdqzzdfmjy.website^
 ||oyshsqsoyrexh.site^
 ||oyssqe.easyvoyage.com^
@@ -540847,6 +540868,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||papagei-papageieneier.de^
 ||papageienzuchtheim.de^
 ||papagfashion.com^
+||papainstogae.qpon^
 ||papairtoacy.net^
 ||papaja.v2v.cc^
 ||papajule.com^
@@ -546109,6 +546131,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||pieejami.tilde.ai^
 ||piefortcreaker.cyou^
 ||pieholla.shop^
+||pieletevasive.qpon^
 ||pieoddly.com^
 ||piercepang.com^
 ||piercescalpel.com^
@@ -552766,6 +552789,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||pqieyxgq.sbs^
 ||pqiicj.misterspex.se^
 ||pqirkbvrxdwfcx.com^
+||pqitcohyrrnzv.online^
 ||pqixbnllqzmfp.space^
 ||pqjprom.cn^
 ||pqjqu.shansbartar.bet^
@@ -576209,6 +576233,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||rotapost.ru^
 ||rotarb.bid^
 ||rotary.demdex.net^
+||rotasflaunty.qpon^
 ||rotate1t.com^
 ||rotate4all.com^
 ||rotate5url.com^
@@ -579043,6 +579068,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||rxlnd.com^
 ||rxlnd.org^
 ||rxmanreturn.com^
+||rxmqrbbhwbdeh.website^
 ||rxmquibo.com^
 ||rxnfubewt.com^
 ||rxnpkp-cdn-settings.appsflyersdk.com^
@@ -579352,6 +579378,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||rzxnpocokpbcy.store^
 ||rzycnidbqwnjl.website^
 ||rzycucbupk.gyhjjifm.beauty^
+||rzykqaazcqcfc.online^
 ||s*.adduplex.com^
 ||s*.skencituer.com^
 ||s--s--s.com^
@@ -610392,6 +610419,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||souaxwaoh.myfreesites.net^
 ||soucvnbylfpxu.online^
 ||soudandondine.shop^
+||soudansslushedocypete.cfd^
 ||soueegelontar.qpon^
 ||soughstreek.com^
 ||soughtcharity.com^
@@ -645721,6 +645749,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||tkppvr.freshfarm.it^
 ||tkqjtaurqpltn.store^
 ||tkqlhce.com^
+||tkqoteekokjyr.website^
 ||tkrconnector.com^
 ||tkrecorder.aotter.net^
 ||tkrkjr.factelier.com^
@@ -660775,6 +660804,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||uaiysnrylsuyx.website^
 ||uaiyuaosnibki.website^
 ||uajaka29aga.start.page^
+||uajcfyxphitzh.website^
 ||uajgfkbpypbsa.site^
 ||uajzbrkidbvfb.online^
 ||uakaricavesowner.cfd^
@@ -662120,6 +662150,7 @@ zzzzzzzkplpllllpppllpppl.com
 ||ujrgnwjhbyinw.space^
 ||ujscdn.com^
 ||ujsdmr-cdn-settings.appsflyersdk.com^
+||ujsztoootmsbp.website^
 ||ujth40hl4i.com^
 ||ujtjjj.com^
 ||ujtr3o-ul9uhk-ltk-ocgtol.pages.dev^

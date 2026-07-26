@@ -233,6 +233,8 @@ cat <<EOF > whitelist.txt
 @@||flydubai.com^$important
 @@||pegasus.com^$important
 @@||etihad.com^$important
+@@||sahibinden.com^$important
+@@||shbd.io^$important
 EOF
 
 # ===== final =====

@@ -163,6 +163,7 @@ cat <<EOF > whitelist.txt
 @@||tvdns.top^$important
 @@||plusiptv.tvdns.top^$important
 @@||media-shop.top^$important
+@@||media-renew.top^$important
 @@||filimo.com^$important
 @@||namava.ir^$important
 @@||filmnet.ir^$important

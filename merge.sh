@@ -236,6 +236,7 @@ cat <<EOF > whitelist.txt
 @@||etihad.com^$important
 @@||sahibinden.com^$important
 @@||shbd.io^$important
+@@||oraclecloud.com^$important
 EOF
 
 # ===== final =====

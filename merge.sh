@@ -237,7 +237,6 @@ cat <<EOF > whitelist.txt
 @@||sahibinden.com^$important
 @@||shbd.io^$important
 @@||oraclecloud.com^$important
-@@||rs6.net^$important
 @@||4ss9hgeab.cc.rs6.net^$important
 @@||r20.rs6.net^$important
 @@||wondershare.cc^$important

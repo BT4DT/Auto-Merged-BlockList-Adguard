@@ -239,6 +239,7 @@ cat <<EOF > whitelist.txt
 @@||oraclecloud.com^$important
 @@||4ss9hgeab.cc.rs6.net^$important
 @@||r20.rs6.net^$important
+@@||wildberries.ru^$important
 @@||wondershare.cc^$important
 EOF
 

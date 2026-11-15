@@ -82,6 +82,8 @@
 @@||shbd.io^
 @@||oraclecloud.com^
 @@||rs6.net^
+@@||4ss9hgeab.cc.rs6.net^
+@@||r20.rs6.net^
 @@||wondershare.cc^
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
@@ -148,7 +150,6 @@
 ! Last modified: 2026-11-12T22:09:59.591Z
 ! Last modified: 2026-11-13T03:13:45.015Z
 ! Last modified: 2026-11-13T14:11:28.492Z
-! Last modified: 2026-11-13T20:11:32.352Z
 ! Last modified: 2026-11-14T00:28:51.622Z
 ! Last modified: 2026-11-14T04:11:58.963Z
 ! Last modified: 2026-11-14T12:13:31.482Z
@@ -163,10 +164,11 @@
 ! Last modified: 2026-11-15T13:09:27.625Z
 ! Last modified: 2026-11-15T13:09:27.775Z
 ! Last modified: 2026-11-15T13:09:28.917Z
-! Last modified: 2026-11-15T16:10:33.775Z
 ! Last modified: 2026-11-15T16:10:39.899Z
 ! Last modified: 2026-11-15T16:10:58.116Z
 ! Last modified: 2026-11-15T17:08:51.024Z
+! Last modified: 2026-11-15T18:11:29.154Z
+! Last modified: 2026-11-15T18:12:19.852Z
 ! Title: 1Hosts (Lite)
 ! Title: AWAvenue Ads Rule
 ! Title: AdGuard DNS Popup Hosts filter
@@ -217,7 +219,7 @@
 ! Version: 1.0.19.89
 ! Version: 1.0.20.64
 ! Version: 1.0.21.53
-! Version: 1.0.22.53
+! Version: 1.0.22.54
 ! Version: 1.0.22.58
 ! Version: 1.0.23.33
 ! Version: 1.0.26.81
@@ -227,7 +229,7 @@
 ! Version: 1.0.33.49
 ! Version: 1.0.48.73
 ! Version: 1.0.6.74
-! Version: 1.0.86.62
+! Version: 1.0.86.63
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
 *-ad.wtzw.com*
@@ -293512,6 +293514,7 @@ zzzwowosss.com
 ||aretnamedicare.com^
 ||aretteauxil.qpon^
 ||arettrebletstation.cyou^
+||areuxlnjiswdo.site^
 ||arevolutionarypull.pro^
 ||arewa.ng^
 ||areyouabot.net^
@@ -310927,6 +310930,7 @@ zzzwowosss.com
 ||bocaiwang.tmdss.com^
 ||bocancilowa.com^
 ||bocapital.com^
+||bocardocalfs.rest^
 ||bocastory.com^
 ||bocastyle.com^
 ||bocchvocas.com^
@@ -312096,6 +312100,7 @@ zzzwowosss.com
 ||borteen.web.app^
 ||bortogat.ru^
 ||bortox.goatcounter.com^
+||bortzeswaspy.cfd^
 ||boruftuiov.com^
 ||boruto-nowoe-lordfilme.ru^
 ||borutoe-lordfilm.ru^
@@ -312291,6 +312296,7 @@ zzzwowosss.com
 ||bottlestrivingtarget.com^
 ||bottoms-lordfilm.cam^
 ||bottomthoughtvow.com^
+||botulinopaquedoodle.cyou^
 ||botulintrembly.cyou^
 ||botvwyytbwpdb.site^
 ||bouchra2.actinutrivia.com^
@@ -315331,6 +315337,7 @@ zzzwowosss.com
 ||btstats.benakt.com^
 ||btstats.devtribu.fr^
 ||btstores.com^
+||bttejamyle.com^
 ||bttele.w3spaces.com^
 ||bttelecomunication.w3spaces.com^
 ||bttmail.plutio.com^
@@ -324925,6 +324932,7 @@ zzzwowosss.com
 ||cexofira.com^
 ||cexsa.my.id^
 ||cexucetum.com^
+||cexvufrpmtiqf.space^
 ||cexwqhxuxixew.site^
 ||cexwqzqmrpjcw.site^
 ||ceycarb.com^
@@ -343436,6 +343444,7 @@ zzzwowosss.com
 ||cwgwgo.ecanta.com.tr^
 ||cwh-prd-aus-server-side-tagging-243225832677.australia-southeast1.run.app^
 ||cwhjirncjhrmo.site^
+||cwhxsz.com^
 ||cwi.re^
 ||cwicybzyryttv.space^
 ||cwifabvze.com^
@@ -361936,6 +361945,7 @@ zzzwowosss.com
 ||discussingthought.com^
 ||discussion.social^
 ||discussionanymore.com^
+||discussioncomperesteel.com^
 ||discussionphotographicportal.com^
 ||discussionvapour.com^
 ||discussmile.com^
@@ -402280,6 +402290,7 @@ zzzwowosss.com
 ||gator.usesfathom.com^
 ||gator.volces.com^
 ||gatoradecanada.com^
+||gatoramorphy.cfd^
 ||gatorapi.com^
 ||gatorifrit.shop^
 ||gatorleads.co.uk^
@@ -434515,6 +434526,7 @@ zzzwowosss.com
 ||ibmtechnology.arrow.com^
 ||ibmwqchwzvlmd.online^
 ||ibnads.xl.co.id^
+||ibnndmxeltmux.online^
 ||ibns3ibgf.com^
 ||ibo.6il4mhir5wk7t6fgvybie4o9p559exj2ix.cyou^
 ||iboard.com^
@@ -441862,6 +441874,7 @@ zzzwowosss.com
 ||installsgate.com^
 ||installsimbuededication.com^
 ||installspal.com^
+||installstational.org^
 ||installtracker.com^
 ||installupdate.online^
 ||installupdate.online^$dnsrewrite=ad-block.dns.adguard.com
@@ -452069,6 +452082,7 @@ zzzwowosss.com
 ||kaacsi.belvilla.nl^
 ||kaadqpoorrhsy.site^
 ||kaan.kakao.com^
+||kaaoyavxmogtc.site^
 ||kaarlojosefmail.com^
 ||kaas.gg^
 ||kaascypher.com^
@@ -501643,6 +501657,7 @@ zzzwowosss.com
 ||martingfingian.com^
 ||martinicounite.com^
 ||martinoticias.122.2o7.net^
+||martinshither.click^
 ||martinundjulia.com^
 ||martlochoco2.online^
 ||martmadimpatience.com^
@@ -507530,6 +507545,7 @@ zzzwowosss.com
 ||maximryder.cyou^
 ||maximtacklesuck.com^
 ||maximtoaster.com^
+||maximumboggles.click^
 ||maximumcash.com^
 ||maximumdecimus.clicknplay.to^
 ||maximumductpictorial.com^
@@ -521351,6 +521367,7 @@ zzzwowosss.com
 ||mobday.com^
 ||mobdro.to^
 ||mobdrovip.com^
+||mobdxuycnrdfw.website^
 ||mobedmeeters.cfd^
 ||mobee.g2afse.com^
 ||mobee2.jp^
@@ -548078,11 +548095,13 @@ zzzwowosss.com
 ||omahasteaks.com.102.122.2o7.net^
 ||omahasteaks.demdex.net^
 ||oman.whizzcart.com^
+||omanilodens.com^
 ||omapi.fangraphs.com^
 ||omappapi.com^
 ||omarcheopson.com^
 ||omarsys.com^
 ||omas.in^
+||omasumdeworm.click^
 ||omatri.info^
 ||omaumeng.net^
 ||omaupeaizqufr.online^
@@ -552937,6 +552956,7 @@ zzzwowosss.com
 ||ouiwfrtqcwjeu.online^
 ||oujudpodmnumr.space^
 ||oujwauznuwofh.site^
+||oujykoverucym.website^
 ||ouk7.grantalexander.com^
 ||oukan.net^
 ||oukds.godsloveovercomes.com^
@@ -553388,6 +553408,7 @@ zzzwowosss.com
 ||outstream-telemetry.wemass.com^
 ||outstream.cdn.vidyome.com^
 ||outstreamoctober.store^
+||outsulkeila.cyou^
 ||outswimunrived.shop^
 ||outtasked.cfd^
 ||outtasknapaea.click^
@@ -570495,6 +570516,7 @@ zzzwowosss.com
 ||prepr-tracking.b-cdn.net^
 ||preprod.adswizz.com^
 ||prepstarcenter.com^
+||prepucediscede.rest^
 ||prepupauncurse.qpon^
 ||preq.ems-ambulance.com^
 ||preqptqpydmbg.space^
@@ -575776,6 +575798,7 @@ zzzwowosss.com
 ||pullupsoffers.com^
 ||pulp-fiction-lordfilm.cam^
 ||pulp-fiction-lordfilm.sbs^
+||pulpaltolanes.rest^
 ||pulpdrive.com^
 ||pulpirdiditsi.site^
 ||pulpix.com^
@@ -578285,6 +578308,7 @@ zzzwowosss.com
 ||qbtqj.lacedhaircare.com^
 ||qbuf5a-cdn-settings.appsflyersdk.com^
 ||qbulqouctdzso.online^
+||qbupzairypjtf.online^
 ||qbuqxddcgzenn.site^
 ||qbvcuszlpbegh.online^
 ||qbvhs.sistaco.co.uk^
@@ -580199,6 +580223,7 @@ zzzwowosss.com
 ||qtotkxbumapye.website^
 ||qtozfdwhusjqr.space^
 ||qtozietgp.com^
+||qtpqpyxtzflsv.site^
 ||qtpyyizgteovh.space^
 ||qtqcd.bonmarche.co.uk^
 ||qtqkpddcbddmy.space^
@@ -581568,6 +581593,7 @@ zzzwowosss.com
 ||qywjep.miniinthebox.com^
 ||qyxiangr.com^
 ||qyxlypmuckbsw.online^
+||qyxpefyzhauch.site^
 ||qyxrwl.com^
 ||qyxygl.team^
 ||qyxzsds.com^
@@ -593483,6 +593509,7 @@ zzzwowosss.com
 ||roids.top^
 ||roikingdom.com^
 ||roildauted.qpon^
+||roiledmoats.com^
 ||roilierastheny.cyou^
 ||roilierservet.qpon^
 ||roilravelly.cfd^
@@ -594225,6 +594252,7 @@ zzzwowosss.com
 ||roundprincethere.com^
 ||roundprinceweb.com^
 ||roundspaniardindefinitely.com^
+||roundsshinkindaraf.cyou^
 ||roundtopbooks.com^
 ||roundvast.com^
 ||roundwatchesbooking.com^
@@ -606319,6 +606347,7 @@ zzzwowosss.com
 ||semblanceafford.com^
 ||semblancecoverageblacked.com^
 ||semblehooping.com^
+||semblerubbery.cfd^
 ||sembot.eu^
 ||sembrconte.com^
 ||semeadores.net^
@@ -637502,6 +637531,7 @@ zzzwowosss.com
 ||spaines.pw^
 ||spaintrade.shop^
 ||spajgnyzbreeu.space^
+||spakkjxonfaks.space^
 ||spaldceded.qpon^
 ||spaltcower.shop^
 ||spam.rottne.com^
@@ -670437,6 +670467,7 @@ zzzwowosss.com
 ||swmlidloaetad.site^
 ||swniihebhwxip.site^
 ||swnr0b7c.xyz^
+||swnrapyxhkuzk.website^
 ||swnskbulvfye.com^
 ||swnviqgqvltkw.website^
 ||swnyoxrjheueq.online^
@@ -675978,6 +676009,7 @@ zzzwowosss.com
 ||tarquiniagroup.com^
 ||tarqumi.shop^
 ||tarrescurioso.com^
+||tarriedotertwelve.cyou^
 ||tarringtonhousedea.com^
 ||tarrishquinbotein.cfd^
 ||tarry.ru^
@@ -702702,6 +702734,7 @@ zzzwowosss.com
 ||uchitel-kimd-lordfilm.ru^
 ||uchitel-kimm-lordfilm.ru^
 ||uchnm.sugarbabiesinc.com^
+||uchtcpyzexfjm.space^
 ||uchwgynkggjca.online^
 ||uciqsmzobweil.site^
 ||uciservice.com^
@@ -705293,6 +705326,7 @@ zzzwowosss.com
 ||umamix-virid.vercel.app^
 ||umamix.fadunews.in^
 ||umani.api.route.run^
+||umaoyubtybuzq.site^
 ||umapa.pl^
 ||umauirfyhaepr.online^
 ||umaxsrch.com^
@@ -712761,6 +712795,7 @@ zzzwowosss.com
 ||vduldfjqyyywg.online^
 ||vdulz.org^
 ||vdunprmzgffmf.site^
+||vduskqdswmnzd.space^
 ||vdv.oqp.mybluehost.me^
 ||vdvdjf.remotepc.com^
 ||vdvefaheagcdd.space^
@@ -717870,6 +717905,7 @@ zzzwowosss.com
 ||vmpdmfacpctto.space^
 ||vmplayer2019.com^
 ||vmqnpjm.com^
+||vmqxjqgaanhkb.space^
 ||vmrange.lat^
 ||vmrecordingforyou.firebaseapp.com^
 ||vmrecordingforyou.web.app^
@@ -731251,6 +731287,7 @@ zzzwowosss.com
 ||wwggpc.skruvat.no^
 ||wwgldtvwiryqb.website^
 ||wwgraingerinc.tt.omtrdc.net^
+||wwgrhbijznvli.online^
 ||wwgrrqrnphfdg.online^
 ||wwhsquzfatqzr.space^
 ||wwi.data-analytics.haufe.de^
@@ -735834,6 +735871,7 @@ zzzwowosss.com
 ||xkronawgqyuia.site^
 ||xksinmebhlqgb.online^
 ||xksqb.com^
+||xktioeceokipr.site^
 ||xktoy8fub.com^
 ||xktqvd.delivery^
 ||xkudtuarvq.in^
@@ -738296,6 +738334,7 @@ zzzwowosss.com
 ||xubjwrbzpapoc.website^
 ||xuboqmbu.in^
 ||xubster.com^
+||xucsbjivmbzlw.online^
 ||xucylxthpajss.site^
 ||xudagpsfyv.in^
 ||xuddeg.rukzakoff.ru^
